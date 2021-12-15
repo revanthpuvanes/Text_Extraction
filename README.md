@@ -1,1 +1,1 @@
-# Text_Extraction
+# Text Extraction from images
